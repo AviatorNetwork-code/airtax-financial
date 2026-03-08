@@ -1,6 +1,6 @@
-# AirTax Financial — Documentation Repository
+# AirTax Financial
 
-Financial services startup specializing in individual tax filing, aviation-specific tax services, tax planning, financial consulting, and insurance services.
+AirTax Financial website and services platform. A boutique financial services firm focused on aviation professionals and specialized tax services.
 
 ## Repository Structure
 
@@ -25,13 +25,7 @@ Financial services startup specializing in individual tax filing, aviation-speci
 - [Website Structure](website/website_structure.md)
 - [Aviator Network Integration](aviator-network-integration/aviator_network_integration.md)
 
----
-
-# AirTax Financial
-
-AirTax Financial is a boutique financial services firm focused on aviation professionals and specialized tax services.
-
-The company provides:
+## Services
 
 - Individual tax filing
 - Aviation-specific tax services
@@ -39,54 +33,6 @@ The company provides:
 - Financial consulting
 - Insurance services
 
-The brand is designed to be professional, structured, and scalable into a broader financial advisory platform.
-
-Tagline:
-Navigate Tax Season with Confidence.
-
----
-
-# Project Structure
-
-branding/
-Brand identity, logo assets, typography, and brand guide.
-
-website/
-Website structure, SEO pages, and marketing site planning.
-
-marketing/
-Social media campaigns, graphics, and promotional materials.
-
-operations/
-Internal processes such as client onboarding, pricing, and workflows.
-
-services/
-Documentation of each financial service offered.
-
-legal/
-LLC, compliance, licensing, and regulatory documents.
-
-financials/
-Business financial models, revenue projections, and accounting.
-
-aviator-network-integration/
-Integration with Aviator Network including purchase codes and AeroCoin workflows.
-
----
-
-# Core Business Model
-
-AirTax Financial offers traditional tax services while integrating with the Aviator Network ecosystem to provide discounted tax filing through AeroCoin redemption.
-
-This creates a bridge between aviation professionals and financial services tailored to the aviation industry.
-
----
-
-# Future Expansion
-
-- Aviation tax consulting
-- Aircraft ownership tax planning
-- Airline pilot financial planning
-- Insurance and financial protection services
+**Tagline:** Navigate Tax Season with Confidence.
 
 *This is a documentation repository, not a software project.*
